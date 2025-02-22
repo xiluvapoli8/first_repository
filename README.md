@@ -1,1 +1,3 @@
 # first_repository
+This project is for my first html and gitHub attempts.
+i hope this goes well...
